@@ -127,12 +127,12 @@ nav ul li a:hover{
     width: 100%;
 }
 .signup{
-    /* background-color: #F0F0F0; */
+    background-color: #F0F0F0;
     /* padding: 50px 0; */
 }
 .singup-content{
     text-align: center;
-    background-color: #F0F0F0;
+/*     background-color: #F0F0F0; */
     padding: 60px 0 50px 0;
 }
 .singup-content h2{
@@ -207,9 +207,10 @@ nav ul li a:hover{
     color: #fff;
     border: 1px solid #343A40;
 }
-.footer{}
+.footer{
+	background-color: #F0F0F0;
+}
 .footer-item{
-	    background-color: #F0F0F0;
 	    overflow: hidden;
 	    padding: 40px;
 }
